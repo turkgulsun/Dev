@@ -1,0 +1,6 @@
+Services
+- Catalog Api > 5011
+- Basket Api > 5013
+- IdentityServer > 5001
+- Order Api > 5015
+- Gateway > 5000
